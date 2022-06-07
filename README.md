@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Angular, ASP.NET, Js, ADQL, ...**
 
-- 📫 How to reach me **deepskyencounter@gmail.com**
+- 📫 Reach me via **deepskyencounter@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
