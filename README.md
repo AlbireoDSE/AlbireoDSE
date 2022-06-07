@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=albireo-dse&label=Profile%20views&color=0e75b6&style=flat" alt="albireo-dse" /> </p>
 
-- 🌱 I’m currently learning **Angular,ASP.NET, ADQL, ...**
+- 🌱 I’m currently learning **Angular, ASP.NET, Js, ADQL, ...**
 
 - 📫 How to reach me **deepskyencounter@gmail.com**
 
