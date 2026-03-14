@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vancauwenberghe Emilien</h1>
-<h3 align="center">Astronomy & IT</h3>
+<h3 align="center">Passionate in Astronomy & IT (Web dev and AI) </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=albireo-dse&label=Profile%20views&color=0e75b6&style=flat" alt="albireo-dse" /> </p>
 
-- 🌱 I’m currently learning **Angular, ASP.NET, Js, Python, Machine learning ...**
+- 🌱 I’m currently learning **Python, Machine learning, Data processing and analytics ...**
 
-- 📫 Reach me via **deepskyencounter@gmail.com**
+- 📫 Reach me via **emilien.vancau@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
